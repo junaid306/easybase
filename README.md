@@ -2,8 +2,8 @@
 
 <br />
 <p align="center">
-    <h1>Appwrite</h1>
-    <b>The open-source cloud for agents and developers. Appwrite is an MCP and agent-first platform for building and scaling apps. Give your agents Auth, Databases, Storage, Functions, Messaging, Realtime, and Hosting, all in one place.</b>
+    <h1>Easybase</h1>
+    <b>The open-source cloud for agents and developers. Easybase is an MCP and agent-first platform for building and scaling apps. Give your agents Auth, Databases, Storage, Functions, Messaging, Realtime, and Hosting, all in one place.</b>
     <br />
     <br />
 </p>
@@ -14,7 +14,7 @@
 
 English | [简体中文](README-CN.md)
 
-Appwrite is an MCP and agent-first, open-source platform for building and scaling apps. MCP is included, so coding agents can operate on a live Appwrite project. Appwrite is available as a managed cloud platform and can also be self-hosted on infrastructure you control.
+Easybase is an MCP and agent-first, open-source platform for building and scaling apps. MCP is included, so coding agents can operate on a live Easybase project. Easybase is available as a managed cloud platform and can also be self-hosted on infrastructure you control.
 
 It is designed for the AI agents in your workflow as well as for developers. Connect Cursor, Claude Code, Codex, and other agents through the hosted MCP server, or integrate an SDK into your app. Modular products stay unified from the first prototype to production scale.
 

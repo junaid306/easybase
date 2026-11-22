@@ -9,7 +9,7 @@ use Appwrite\Platform\Modules\Advisor\Enums\ReportType;
 use Appwrite\Platform\Modules\Compute\Specification;
 use Utopia\System\System;
 
-const APP_NAME = 'Appwrite';
+const APP_NAME = 'Easybase';
 const APP_DOMAIN = 'appwrite.io';
 
 const APP_VIEWS_DIR = __DIR__ . '/../views';
