@@ -13,7 +13,7 @@ use Utopia\System\System;
 $console = [
     '$id' => Id::custom('console'),
     '$sequence' => Id::custom('console'),
-    'name' => 'Appwrite',
+    'name' => 'Easybase',
     '$collection' => Id::custom('projects'),
     'description' => 'Appwrite core engine',
     'logo' => '',
